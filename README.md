@@ -1,4 +1,4 @@
-### Prescription Recommendation in Treat- ment Pathways: A Hierarchical Ontology Model using Electronic Health Records
+### Prescription Recommendation in Treatment Pathways: A Hierarchical Ontology Model using Electronic Health Records
 
 Code for review:
 
